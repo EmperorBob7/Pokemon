@@ -1,21 +1,21 @@
 package pokemon;
 
-public class Bulbasaur implements Pokemon{
+public class Rookidee implements Pokemon{
 
 	public String getName() {
-		return "Bulbasaur";
+		return "Rookidee";
 	}
 
 	public String getType1() {
-		return "Grass";
+		return "Flying";
 	}
 
 	public String getType2() {
-		return "Poison";
+		return "Based";
 	}
 
 	public int getIndex() {
-		return 1;
+		return 821;
 	}
 
 }
