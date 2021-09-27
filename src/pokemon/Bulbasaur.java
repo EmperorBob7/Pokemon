@@ -1,21 +1,21 @@
 package pokemon;
 
-public class Corviknight implements Pokemon{
+public class Bulbasaur implements Pokemon{
 
 	public String getName() {
-		return "Corviknight";
+		return "Bulbasaur";
 	}
 
 	public String getType1() {
-		return "Steel";
+		return "Grass";
 	}
 
 	public String getType2() {
-		return "Flying";
+		return "Poison";
 	}
 
 	public int getIndex() {
-		return 823;
+		return 1;
 	}
 
 }
